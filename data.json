@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the scale that has no key signature signs?",
+      "options": ["G#m", "Am", "C", "Fb"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 2,
+      "question": "What is the meaning of the top number in time simple signatures?",
+      "options": ["beats", "keys", "time", "instruments"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 3,
+      "question": "What is the genre of the piece: 'Heroic Polonaise Op.53'",
+      "options": ["Classical", "Romantic", "Modern", "Baroque"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "id": 4,
+      "question": "How many sharps does the scale 'F' have?",
+      "options": ["2", "6", "4", "0"],
+      "correctOption": 4,
+      "points": 10
+    },
+    {
+      "id": 5,
+      "question": "how many beats does the 6/8 time signature have?",
+      "options": ["1", "2", "3", "4"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "id": 6,
+      "question": "What is the most important instrument in orchestral music?",
+      "options": ["Violin", "Piano", "Guitar", "Tuba"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 7,
+      "question": "Which composer has the most improtant piano pieces of all time?",
+      "options": ["Beethoven", "Listz", "Chopin", "Bach"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 8,
+      "question": "What is the meaning of 'Fermata' ?",
+      "options": [
+        "Perform with passion",
+        "Change the pitch of the note",
+        "Change the duration of the note",
+        "Perform with rest after the note"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 9,
+      "question": "how do we perform Trill in music?",
+      "options": [
+        "Rapid alternation between two adjacent notes",
+        "Slow alternation between two adjacent notes",
+        "Rapid alternation between two octave notes",
+        "Slow alternation between two octave notes"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 10,
+      "question": "What is harmoney in music?",
+      "options": [
+        "The basic of music theory",
+        "The science of playing an instrument",
+        "The science of signing",
+        "The science of chords arrangement"
+      ],
+      "correctOption": 4,
+      "points": 10
+    }
+  ]
+}
